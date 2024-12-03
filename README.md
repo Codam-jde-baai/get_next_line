@@ -1,6 +1,6 @@
 # get_next_line: File Reading Utility
 
-This **get_next_line** project is my third project at Codam. `get_next_line()` is a function that returns lines from an open file descriptor one function call at a time. It teaches proper memory management and interaction with files.
+This **get_next_line** project is my fourth project at Codam. `get_next_line()` is a function that returns lines from an open file descriptor one function call at a time. It teaches proper memory management and interaction with files.
 
 ## Project Highlights
 
